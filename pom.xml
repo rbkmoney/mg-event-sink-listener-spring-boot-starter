@@ -7,12 +7,11 @@
     <parent>
         <groupId>com.rbkmoney</groupId>
         <artifactId>library-parent-pom</artifactId>
-        <version>1.0.3</version>
-        <relativePath/>
+        <version>1.0.8</version>
     </parent>
 
     <artifactId>mg-event-sink-listener-spring-boot-starter</artifactId>
-    <version>0.0.6-SNAPSHOT</version>
+    <version>0.0.7</version>
     <packaging>jar</packaging>
 
     <description></description>
@@ -26,7 +25,6 @@
         <shared.resources.version>0.3.8</shared.resources.version>
         <damsel.version>1.466-060478e</damsel.version>
         <jackson.version>2.12.0</jackson.version>
-        <dockerfile.build.tag>c0612d6052ac049496b72a23a04acb142035f249</dockerfile.build.tag>
     </properties>
 
     <dependencies>
